@@ -1,4 +1,4 @@
-let budget = 10000;
+let budget = 50000;
 let totalExpenses = 0;
 
 window.onload = function() {
