@@ -175,3 +175,12 @@ input:focus, button:hover {
 .expense-item:nth-child(even) {
     background: linear-gradient(135deg, #ff6600, #ff0033);
 }
+#expenses-list {
+    margin-top: 20px;
+    text-align: left;
+    max-height: 300px;  
+    overflow-y: auto;   
+    padding: 10px;      
+    border-radius: 5px; 
+    background-color: #f9f9f9;
+}
